@@ -1,0 +1,1 @@
+A tic tac toe game where the user plays against a CPU of two different levels. The first level being a random move generator and the second utilizing the minimax algorithm to think ahead recursively and plan out the best move.
